@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "name": "Reunion",
+      "place": "Salon de congresos",
+      "dateTime": "10/04/2020 19:00",
+      "speaker": "Pedro Almodóvar",
+      "description": "Important meeting"
+    },
+    {
+      "id": 1,
+      "name": "Fiesta",
+      "place": "Salon de congresos",
+      "dateTime": "10/04/2020 19:00",
+      "speaker": "Antonio Banderas",
+      "description": "Important meeting"
+    },
+    {
+      "id": 2,
+      "name": "Conferencia",
+      "place": "Salon de congresos",
+      "dateTime": "10/04/2020 19:00",
+      "speaker": "Penélope Cruz",
+      "description": "Important meeting"
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "name": "EXAMEN",
+      "place": "INSTITUTO",
+      "speaker": "Marisa Paredes",
+      "description": "Important meeting",
+      "id": 3
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "name": "EXAMEN",
+      "place": "INSTITUTO",
+      "speaker": "Marisa Paredes",
+      "description": "Important meeting",
+      "id": 4
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "name": "GRADUACION",
+      "place": "JAEN",
+      "speaker": "Steven Spielberg",
+      "description": "Important meeting",
+      "id": 5
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "name": "GRADUACION",
+      "place": "JAEN",
+      "speaker": "Greta Gerwig",
+      "description": "Important meeting",
+      "id": 6
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "name": "MORDOR",
+      "place": "JAEN",
+      "speaker": "Greta Gerwig",
+      "description": "Important meeting",
+      "id": 10
+    },
+    {
+      "dateTime": "10/04/2020 19:00",
+      "description": "Charla de cine",
+      "name": "PRUEBA",
+      "place": "JAEN",
+      "speaker": "Steven Spielberg",
+      "id": 11
+    }
+  ]
+}
